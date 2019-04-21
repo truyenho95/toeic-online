@@ -1,0 +1,1 @@
+CREATE DATABASE `toeic-online` CHARACTER SET UTF8;
